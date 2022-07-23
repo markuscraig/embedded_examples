@@ -4,4 +4,4 @@ This repo provides working examples of Rust projects running on various embedded
 
 The `vendor` directory contains all of the projects categorized by vendor and development board:
 
-* vendor/<board>/<project>
+* `vendor/<board>/<project>`
