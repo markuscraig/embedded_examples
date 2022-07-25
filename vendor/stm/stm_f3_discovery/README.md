@@ -13,10 +13,13 @@ The `STM F3 Discovery` board can be purchased online from these distributors:
 # Chips Used
 
 * STM32F303VC
-  * ARM Cortex-M4 32-bit CPU
+  * ARM Cortex-M4F 32-bit CPU
+    * https://www.arm.com/products/silicon-ip-cpu/cortex-m/cortex-m4
   * 72 MHz max
   * 256 KB flash
-  * 48 KB RAM
+    * at address 0x8000_0000
+  * 40 KB RAM
+    * at address 0x2000_0000
   * https://www.st.com/en/microcontrollers-microprocessors/stm32f303vc.html
 * LSM303DLHC
   * Accelerometer
