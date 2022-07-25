@@ -1,4 +1,4 @@
-# QEMU Test
+# Ch2.1 - QEMU
 
 # Create Project from Template
 
